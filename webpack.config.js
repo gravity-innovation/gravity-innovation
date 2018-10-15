@@ -20,6 +20,7 @@ Encore
 
     // Add CSS Files
     // .addEntry('js/main', './assets/js/main.js')
+    .addEntry('img', './assets/js/recursifEncore.js')
     
     // Add CSS Files
     .addStyleEntry('css/stylesheet', './assets/css/stylesheet.css')

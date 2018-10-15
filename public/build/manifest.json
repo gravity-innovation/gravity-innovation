@@ -1,3 +1,5 @@
 {
-  "build/css/stylesheet.css": "/build/css/stylesheet.css"
+  "build/img.js": "/build/img.js",
+  "build/css/stylesheet.css": "/build/css/stylesheet.css",
+  "build/image/logo_gravity.ico": "/build/image/logo_gravity.ico"
 }
